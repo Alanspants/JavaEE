@@ -9,6 +9,6 @@
 </h1>
 <br/>
 <a href="/temp/test.html">Fill the form</a>
-<a href="/temp/myservlet">Response page</a>
+<a href="/temp/commentServlet">Response page</a>
 </body>
 </html>
