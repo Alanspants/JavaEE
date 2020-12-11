@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="saveDataAttributeJSP:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>saveDataAttributeJSP</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="saveDataAttributeJSP-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="saveDataAttributeJSP:war exploded" />
+    </root>
+  </artifact>
+</component>
