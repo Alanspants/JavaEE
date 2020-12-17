@@ -13,6 +13,7 @@ public class DBHelper {
     static {
         //获得属性文件输入溜
         InputStream in = DBHelper.class.getClassLoader().getResourceAsStream("config.properties");
+        System.out.println(in);
         try {
             //从文件读取到变量info
             info.load(in);
